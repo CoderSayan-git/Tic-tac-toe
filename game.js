@@ -4,10 +4,12 @@ let val = 'X';
 btns.forEach((b) => {
     b.addEventListener("click",(evt) =>{
         if(val === 'X'){
+            b.style.color = "#f05a7e";
             b.innerText = 'X';
             val = 'O';  
         }
         else{
+            b.style.color = "#0b8494";
             b.innerText = 'O';
             val = 'X';
         }
@@ -38,7 +40,7 @@ function checkWinner (player) {
                 })
                 setTimeout(()=>{
                     showWinner(a);
-                });
+                }, 300);
                 return true;
             }
         }

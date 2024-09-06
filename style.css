@@ -6,14 +6,14 @@ body{
     align-items: center;
     justify-content: center;
     background-color:darkcyan;
-    background-image: url("/bg-image.jpg");
+    background-image: url("/board-5599231_1920.png");
 }
 .newGame{
     height: 100vh;
 }
 h1{
     text-decoration: underline;
-    color: fuchsia;
+    color: #6c48c5;
     text-decoration-color: rgb(128, 229, 12);
 }
 .btn{
@@ -64,7 +64,8 @@ h1{
     grid-template-rows: repeat(3, 100px);
     gap:5px;
 }
-.outer-div{
+.outer-div
+{
     height:80vh;
     width:60vh;
     display:flex;
