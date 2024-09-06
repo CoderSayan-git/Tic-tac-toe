@@ -36,7 +36,9 @@ function checkWinner (player) {
                 btns.forEach((b) => {
                     b.disabled = true;
                 })
-                showWinner(a);  
+                setTimeout(()=>{
+                    showWinner(a);
+                });
                 return true;
             }
         }
