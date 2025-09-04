@@ -7,7 +7,7 @@ Players take turns to place **X** and **O**, and the game checks for a **winner*
 Learning JS and using its small but important concepts
 to create this mini project.
 
-Thanks to Shradha Khapra from Apna College
+Thanks to **Shradha Khapra** from **Apna College**
 
 ---
 
@@ -24,4 +24,5 @@ Thanks to Shradha Khapra from Apna College
 * **Reset** and **New Game** functionality
 
 ---
+
 
