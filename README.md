@@ -7,7 +7,7 @@ Players take turns to place **X** and **O**, and the game checks for a **winner*
 Learning JS and using its small but important concepts
 to create this mini project.
 
-Thanks to **Shradha Khapra** from **Apna College**
+Thanks to **Shradha Khapra** Ma'am from **Apna College**
 
 ---
 
@@ -16,13 +16,14 @@ Thanks to **Shradha Khapra** from **Apna College**
 * Two-player gameplay (**X** vs **O**)
 * Colored symbols:
 
-  * `X` → **Pink (#f05a7e)**
-  * `O` → **Blue (#0b8494)**
+  * `X` → **Pink**
+  * `O` → **Blue**
 * Automatic **winner detection**
 * Displays **Congratulations message** when a player wins 🎉
 * Detects **Draw** and shows message when the board is full
 * **Reset** and **New Game** functionality
 
 ---
+
 
 
